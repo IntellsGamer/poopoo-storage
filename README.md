@@ -2,7 +2,7 @@
 # 💩 poopoo-storage
 [![Poo poo Downloader](https://img.shields.io/badge/Poo%20poo-Downloader-orange?style=flat-square)](https://github.com/IntellsGamer/poopoo-storage)
 [![GitHub last commit](https://img.shields.io/github/last-commit/IntellsGamer/poopoo-storage?style=flat-square)](https://github.com/IntellsGamer/poopoo-storage/commits/main)
-[![Repo Size](https://img.shields.io/github/repo-size/your-username/poopoo-storage?style=flat-square)](https://github.com/IntellsGamer/poopoo-storage)
+[![Repo Size](https://img.shields.io/github/repo-size/IntellsGamer/poopoo-storage?style=flat-square)](https://github.com/IntellsGamer/poopoo-storage)
 
 > **⚠️ WARNING: This repository is automatically managed by the Poo poo Downloader Action**  
 > Do not manually edit files in the `downloads/` folder. Changes will be overwritten.
